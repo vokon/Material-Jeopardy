@@ -1,2 +1,2 @@
 # Material-Jeopardy
-Jeopardy App based in Material Design
+Polymer Based Jeopardy App
