@@ -4,47 +4,200 @@ Created 3/25/15
 
 Catalog of games in the app. Will populate Catalog screen
 */
-[
-	{
-		"title": "Sample Game",
-		"final-jeopardy": true,
-		"show-answers": true,
-		"playable": false,
 
-		"categories": [
-			{
-			"name": "Sample Category",
-			"height": 5,
-			"questions": [
+	"catalog": [
+		{
+			"title": "Sample Game",
+			"id": 1,
+			"final-jeopardy": true,
+			"show-answers": true,
+			"playable": true,
+			"numOfCategories": 5,
+			"questionsPerCategory": 5,
+
+			"categories": [
 				{
-					"title": "question 1",
-					"answer" "answer"
-					"value": 100,
+				"name": "Sample Category",
+				"height": 5,
+				"questions": [
+					{
+						"title": "question 1",
+						"answer" "answer"
+						"value": 100,
+						"revealed": false
+					},
+					{
+						"title": "question 2",
+						"answer" "answer"
+						"value": 200,
+						"revealed": false
+					},
+					{
+						"title": "question 3",
+						"answer" "answer"
+						"value": 300,
+						"revealed": false
+					},
+					{
+						"title": "question 4",
+						"answer" "answer"
+						"value": 400,
+						"revealed": false
+					},
+					{
+						"title": "question 5",
+						"answer" "answer"
+						"value": 500,
+						"revealed": false
+					}
+				]
 				},
 				{
-					"title": "question 2",
-					"answer" "answer"
-					"value": 200,
+				"name": "Sample Category 2",
+				"height": 3,
+				"questions": [
+					{
+						"title": "question 1",
+						"answer" "answer"
+						"value": 100,
+						"revealed": false
+					},
+					{
+						"title": "question 2",
+						"answer" "answer"
+						"value": 200,
+						"revealed": false
+					},
+					{
+						"title": "question 3",
+						"answer" "answer"
+						"value": 300,
+						"revealed": false
+					},
+					{
+						"title": "question 4",
+						"answer" "answer"
+						"value": 400,
+						"revealed": false
+					},
+					{
+						"title": "question 5",
+						"answer" "answer"
+						"value": 500,
+						"revealed": false
+					}
+				]
 				},
 				{
-					"title": "question 3",
-					"answer" "answer"
-					"value": 300,
+				"name": "Sample Category 3",
+				"height": 5,
+				"questions": [
+					{
+						"title": "question 1",
+						"answer" "answer"
+						"value": 100,
+						"revealed": false
+					},
+					{
+						"title": "question 2",
+						"answer" "answer"
+						"value": 200,
+						"revealed": false
+					},
+					{
+						"title": "question 3",
+						"answer" "answer"
+						"value": 300,
+						"revealed": false
+					},
+					{
+						"title": "question 4",
+						"answer" "answer"
+						"value": 400,
+						"revealed": false
+					},
+					{
+						"title": "question 5",
+						"answer" "answer"
+						"value": 500,
+						"revealed": false
+					}
+				]
 				},
 				{
-					"title": "question 4",
-					"answer" "answer"
-					"value": 400,
+				"name": "Sample Category",
+				"height": 5,
+				"questions": [
+					{
+						"title": "question 1",
+						"answer" "answer"
+						"value": 100,
+						"revealed": false
+					},
+					{
+						"title": "question 2",
+						"answer" "answer"
+						"value": 200,
+						"revealed": false
+					},
+					{
+						"title": "question 3",
+						"answer" "answer"
+						"value": 300,
+						"revealed": false
+					},
+					{
+						"title": "question 4",
+						"answer" "answer"
+						"value": 400,
+						"revealed": false
+					},
+					{
+						"title": "question 5",
+						"answer" "answer"
+						"value": 500,
+						"revealed": false
+					}
+				]
 				},
 				{
-					"title": "question 5",
-					"answer" "answer"
-					"value": 500,
+				"name": "Sample Category",
+				"height": 5,
+				"questions": [
+					{
+						"title": "question 1",
+						"answer" "answer"
+						"value": 100,
+						"revealed": false
+					},
+					{
+						"title": "question 2",
+						"answer" "answer"
+						"value": 200,
+						"revealed": false
+					},
+					{
+						"title": "question 3",
+						"answer" "answer"
+						"value": 300,
+						"revealed": false
+					},
+					{
+						"title": "question 4",
+						"answer" "answer"
+						"value": 400,
+						"revealed": false
+					},
+					{
+						"title": "question 5",
+						"answer" "answer"
+						"value": 500,
+						"revealed": false
+					}
+				]
 				}
 			]
-			}
-		]
 
 
-	}
-]
+		}
+	]

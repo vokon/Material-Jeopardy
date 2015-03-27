@@ -4,47 +4,8 @@ Created 3/25/15
 
 Settings JSON for Entire App
 */
-[
+
 	{
-		"title": "Sample Game",
-		"final-jeopardy": true,
-		"show-answers": true,
-		"playable": false,
-
-		"categories": [
-			{
-			"name": "Sample Category",
-			"height": 5,
-			"questions": [
-				{
-					"title": "question 1",
-					"answer" "answer"
-					"value": 100,
-				},
-				{
-					"title": "question 2",
-					"answer" "answer"
-					"value": 200,
-				},
-				{
-					"title": "question 3",
-					"answer" "answer"
-					"value": 300,
-				},
-				{
-					"title": "question 4",
-					"answer" "answer"
-					"value": 400,
-				},
-				{
-					"title": "question 5",
-					"answer" "answer"
-					"value": 500,
-				}
-			]
-			}
-		]
-
-
+		"music": true,
+		"sounds": true,
 	}
-]

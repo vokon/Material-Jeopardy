@@ -1,0 +1,64 @@
+
+	"avatars": [
+		{
+			"id": 1,
+			"alt": "icon description",
+			"path": "path/to/icon"
+		},
+		{
+			"id": 2,
+			"alt": "icon description",
+			"path": "path/to/icon"
+		},
+		{
+			"id": 3,
+			"alt": "icon description",
+			"path": "path/to/icon"
+		},
+		{
+			"id": 4,
+			"alt": "icon description",
+			"path": "path/to/icon"
+		},
+		{
+			"id": 5,
+			"alt": "icon description",
+			"path": "path/to/icon"
+		},
+		{
+			"id": 6,
+			"alt": "icon description",
+			"path": "path/to/icon"
+		},
+		{
+			"id": 7,
+			"alt": "icon description",
+			"path": "path/to/icon"
+		},
+		{
+			"id": 8,
+			"alt": "icon description",
+			"path": "path/to/icon"
+		},
+		{
+			"id": 9,
+			"alt": "icon description",
+			"path": "path/to/icon"
+		},
+		{
+			"id": 10,
+			"alt": "icon description",
+			"path": "path/to/icon"
+		},
+		{
+			"id": 11,
+			"alt": "icon description",
+			"path": "path/to/icon"
+		},
+		{
+			"id": 12,
+			"alt": "icon description",
+			"path": "path/to/icon"
+		},
+
+	]

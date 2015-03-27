@@ -1,0 +1,33 @@
+/*
+sessions.json
+Created 3/26/15
+
+Contains all sessions of all games played. Handles Teams, points, standings.
+Reference for history page.
+*/
+
+
+	"sessions": [
+		{
+			"id": 1,
+			"gameId": 1,
+			"dateCompleted": 234567654,
+			"dateStarted": 367836261,
+			"winningTeamId": 1,
+
+			"teams": [
+				{
+					"id": 1,
+					"name": "Team 1",
+					"avatar": "example.svg (connect to avatar.json.avatarpath)",
+					"points": 1000
+				},
+				{
+					"id": 2,
+					"name": "Team 2",
+					"avatar": "example.svg (connect to avatar.json.avatarpath)",
+					"points": 900
+				},
+			]
+		}
+	]
